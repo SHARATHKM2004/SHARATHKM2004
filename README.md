@@ -1,4 +1,4 @@
-![logo](https://github.com/SHARATHKM2004/SHARATHKM2004/blob/main/Sharath_KM.png)
+<img src="https://github.com/SHARATHKM2004/SHARATHKM2004/blob/main/Sharath_KM.png?raw=true" alt="logo" height="500" width="5000">
 <h1 align="center">Hi 👋, I'm Sharath K M</h1>
 <h3 align="center">Computer Science Enthusiast graduating in 2026 from REVA University</h3>
 <img align="right"alt="coding"width="300"src="https://github.com/user-attachments/assets/a274283e-aeeb-4978-aefe-d375eea9f0ee">
